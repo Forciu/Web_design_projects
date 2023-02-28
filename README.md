@@ -4,7 +4,7 @@
 
 
 <div align=center margin= auto> 
-  <img src="DESIGN.png"  width=90%>
+  <img src="DESIGN.png">
 </div>
 
 The project presents the website of the company DESIGN which develops websites and mobile applications
