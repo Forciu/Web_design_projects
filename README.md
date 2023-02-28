@@ -2,7 +2,7 @@
 
 <h2> forciu.github.io//Web_design_projects/index.html </h2>
 
-
+<h3> Recommended resolution: 1920 x 1080 </h3>
 <div align=center margin= auto> 
   <img src="DESIGN.png">
 </div>
